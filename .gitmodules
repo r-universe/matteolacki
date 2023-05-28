@@ -9,8 +9,3 @@
 	shallow = true
 	subdir = IsoSpecR
 	registered = true
-[submodule "timsr"]
-	path = timsr
-	url = https://github.com/matteolacki/timsr
-	shallow = true
-	registered = true
