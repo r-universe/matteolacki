@@ -5,4 +5,3 @@
 [submodule "IsoSpecR"]
 	path = IsoSpecR
 	url = https://github.com/matteolacki/isospec
-	subdir = IsoSpecR
