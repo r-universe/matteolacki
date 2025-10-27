@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "IsoSpecR"]
 	path = IsoSpecR
-	url = https://github.com/matteolacki/isospec
+	url = https://github.com/cran/IsoSpecR
