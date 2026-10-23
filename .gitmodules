@@ -5,3 +5,6 @@
 [submodule "IsoSpecR"]
 	path = IsoSpecR
 	url = https://github.com/cran/IsoSpecR
+[submodule "opentimsr"]
+	path = opentimsr
+	url = https://github.com/cran/opentimsr
